@@ -1,7 +1,5 @@
 # Darragh Casey
 
-I build data systems and backend services, mostly in Python and Java. My recent work covers recommender systems, NLP pipelines and statistical analysis.
-
 ## Projects
 
 **[News Aggregator](https://github.com/dc-171/news-aggregator-backend)** ([frontend](https://github.com/dc-171/news-aggregator-frontend))
